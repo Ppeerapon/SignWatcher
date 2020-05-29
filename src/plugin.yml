@@ -1,0 +1,7 @@
+main: Ppeerapon.SignWatcher.Main
+name: SignWatcher
+version: 1.0
+author: Ppeerapon
+commands:
+  SignWatcher:
+    aliases: sw
